@@ -16,8 +16,8 @@ Este projeto contém uma função chamada `benford_law()` que analisa a distribu
 
 ## Uso
 
-1. Atualize o caminho do arquivo CSV no script `main.py` para corresponder ao local do arquivo em seu computador.
-2. Execute o script `main.py` para analisar os números da Mega Sena de acordo com a Lei de Benford e exibir a distribuição dos primeiros dígitos.
+1. Atualize o caminho do arquivo CSV no script `megasena-benford-law.py` para corresponder ao local do arquivo em seu computador.
+2. Execute o script `megasena-benford-law.py` para analisar os números da Mega Sena de acordo com a Lei de Benford e exibir a distribuição dos primeiros dígitos.
 
 ## Código
 

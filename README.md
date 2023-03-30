@@ -38,7 +38,7 @@ def benford_law(numbers_list):
     return digit_frequencies
 
 # Carregue o arquivo CSV (altere o caminho do arquivo conforme necessário)
-file_path = "C:/Users/thiago.gleal/Desktop/resultados_mega.csv"
+file_path = "caminho do arquivo csv"
 df = pd.read_csv(file_path, sep=";")
 
 # Extraia os números da Mega Sena
